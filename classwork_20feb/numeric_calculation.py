@@ -19,9 +19,12 @@ print("Subtraction:", solve_subtraction(50, 40))
 print("Product:", solve_product(8, 4))
 print("Division:", solve_division(12, 4))
 
-'''output:
+
+#-----------------------------------------
+#'''output:
 Addition: 70
 Subtraction: 10
 Product: 32
 Division: 3.0
+
 '''
